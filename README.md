@@ -36,7 +36,7 @@ Download the latest version from [GitHub Releases](https://github.com/tony-97/id
 
 ### macOS (unsigned application)
 
-Because it's an unsigned application, macOS will block its execution by default. Follow these steps:
+Because it's an unsigned application, macOS will block its execution by default, Follow these steps:
 
 1. **Mount the DMG** by double-clicking `idat_sync-macOS.dmg` and dragging the app to the **Applications** folder.
 
