@@ -86,7 +86,7 @@ idat_sync
 
 ![Login](screenshots/login.png)
 
-- Complete two-factor authentication (2FA) with the code received on your mobile device.
+- Complete two-factor authentication (2FA) with the code received on your mobile devices.
 
 ![2FA](screenshots/mfa.png)
 
