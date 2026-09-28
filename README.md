@@ -76,7 +76,7 @@ playwright install webkit
 
 ## How to use.
 
-1. Once installed, simply run the following command in your terminal to open the application:
+1. Once installed, run the following command in your terminal to open the application:
 ```shell
 idat_sync
 ```
