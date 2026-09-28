@@ -74,7 +74,7 @@ playwright install chromium
 playwright install webkit
 ```
 
-## How to use
+## How to use.
 
 1. Once installed, simply run the following command in your terminal to open the application:
 ```shell
