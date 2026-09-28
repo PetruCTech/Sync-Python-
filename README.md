@@ -96,7 +96,7 @@ idat_sync
 
 ![Progress](screenshots/sync_progress.png)
 
-3. The files will be downloaded and organized in the folder you selected.
+3. The files will be downloaded and organized in the folders you selected.
 
 ## Google Colab + Google Drive + NotebookLM
 
